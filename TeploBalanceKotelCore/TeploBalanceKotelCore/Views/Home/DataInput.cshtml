@@ -1,0 +1,147 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    @* <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> *@
+</head>
+<body>
+    
+    @using (Html.BeginForm("DataInput", "Home", FormMethod.Post))
+    {
+        <h2 >
+            Газообразное топливо
+        </h2>
+        <div class="container" >
+            
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Температура питательной воды, °C</td>
+                            <td>@Html.TextBox("DataInput.TempPitWat", (double)(ViewBag.DataInput.TempPitWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура перегретого пара, °C</td>
+                            <td>@Html.TextBox("DataInput.TempHeatWat", (double)(ViewBag.DataInput.TempHeatWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Давление внутри барабана, Па</td>
+                            <td>@Html.TextBox("DataInput.Pressure", (double)(ViewBag.DataInput.Pressure), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Выход пара, кг/с</td>
+                            <td>@Html.TextBox("DataInput.ParVyh", (double)(ViewBag.DataInput.ParVyh), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Расход воды на продувку котла, кг/с</td>
+                            <td>@Html.TextBox("DataInput.RashWat", (double)(ViewBag.DataInput.RashWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура рабочего топлива, °С</td>
+                            <td>@Html.TextBox("DataInput.TempRabT", (double)(ViewBag.DataInput.TempRabT), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание CH4, %</td>
+                            <td>@Html.TextBox("DataInput.SodCH4", (double)(ViewBag.DataInput.SodCH4), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание C2H6, %</td>
+                            <td>@Html.TextBox("DataInput.SodC2H6", (double)(ViewBag.DataInput.SodC2H6), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание C3H8, %</td>
+                            <td>@Html.TextBox("DataInput.SodC3H8", (double)(ViewBag.DataInput.SodC3H8), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание C4H10, %</td>
+                            <td>@Html.TextBox("DataInput.SodC4H10", (double)(ViewBag.DataInput.SodC4H10), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание C5H12, %</td>
+                            <td>@Html.TextBox("DataInput.SodC5H12", (double)(ViewBag.DataInput.SodC5H12), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание C6H14, %</td>
+                            <td>@Html.TextBox("DataInput.SodC6H14", (double)(ViewBag.DataInput.SodC6H14), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание CO, %</td>
+                            <td>@Html.TextBox("DataInput.SodCO", (double)(ViewBag.DataInput.SodCO), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание CO2, %</td>
+                            <td>@Html.TextBox("DataInput.SodCO2", (double)(ViewBag.DataInput.SodCO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание N2, %</td>
+                            <td>@Html.TextBox("DataInput.SodN2", (double)(ViewBag.DataInput.SodN2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание O2, %</td>
+                            <td>@Html.TextBox("DataInput.SodO2", (double)(ViewBag.DataInput.SodO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2S, %</td>
+                            <td>@Html.TextBox("DataInput.SodH2S", (double)(ViewBag.DataInput.SodH2S), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2, %</td>
+                            <td>@Html.TextBox("DataInput.SodH2", (double)(ViewBag.DataInput.SodH2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Коэффициент избытка воздуха</td>
+                            <td>@Html.TextBox("DataInput.Alpha", (double)(ViewBag.DataInput.Alpha), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура воздуха, °C</td>
+                            <td>@Html.TextBox("DataInput.TempVozd", (double)(ViewBag.DataInput.TempVozd), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура уходящих газов, °C </td>
+                            <td>@Html.TextBox("DataInput.TempOut", (double)(ViewBag.DataInput.TempOut), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от химической неполноты сгорания топлива, %</td>
+                            <td>@Html.TextBox("DataInput.QChem", (double)(ViewBag.DataInput.QChem), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от механической неполноты сгорания топлива, % </td>
+                            <td>@Html.TextBox("DataInput.QMech", (double)(ViewBag.DataInput.QMech), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от наружного охлаждения, % </td>
+                            <td>@Html.TextBox("DataInput.QCold", (double)(ViewBag.DataInput.QCold), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+
+
+
+
+
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 20px">
+            <button type="submit" name="action" value="toSolver" style="font-size: 16px" class="btn btn-primary">Расчет</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>

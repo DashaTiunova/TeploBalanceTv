@@ -1,0 +1,1471 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TeploBalanceKotelMathLib</name>
+    </assembly>
+    <members>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._parVyh">
+            <summary>
+            Выход пара, кг/с
+            </summary> 
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.ParVyh">
+            <summary>
+            Выход пара, кг/с
+            </summary> 
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._rashWat">
+            <summary>
+            Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.RashWat">
+            <summary>
+            Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._tempPitWat">
+            <summary>
+            Температура питательной воды, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.TempPitWat">
+            <summary>
+            Температура питательной воды, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._tempHeatWat">
+            <summary>
+            Температура нагретого пара, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.TempHeatWat">
+            <summary>
+            Температура нагретого пара, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._pressure">
+            <summary>
+            Давление внутри барабана, атм
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.Pressure">
+            <summary>
+            Давление внутри барабана, атм
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._tempRabT">
+            <summary>
+            Температура рабочего топлива, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.TempRabT">
+            <summary>
+            Температура рабочего топлива, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._sodH">
+            <summary>
+            Содержание водорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.SodH">
+            <summary>
+            Содержание водорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._sodC">
+            <summary>
+            Содержание углерода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.SodC">
+            <summary>
+            Содержание углерода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._sodO">
+            <summary>
+            Содержание кислорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.SodO">
+            <summary>
+            Содержание кислорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._sodS">
+            <summary>
+            Содержание серы, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.SodS">
+            <summary>
+            Содержание серы, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._sodWP">
+            <summary>
+            Содержание водяных паров, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.SodWP">
+            <summary>
+            Содержание водяных паров, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._alpha">
+            <summary>
+            Коэффициент избытка воздуха, ед.
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.Alpha">
+            <summary>
+            Коэффициент избытка воздуха, ед.
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._tempVozd">
+            <summary>
+            Температура воздуха, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.TempVozd">
+            <summary>
+            Температура воздуха, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._tempOut">
+            <summary>
+            Температура уходящих газов, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.TempOut">
+            <summary>
+            Температура уходящих газов, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._qChem">
+            <summary>
+            Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.QChem">
+            <summary>
+            Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._qMech">
+            <summary>
+            Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.QMech">
+            <summary>
+            Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._qCold">
+            Заряд наружного охлаждения
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._qWarm">
+            <summary>
+            Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.TverdToplivo.QWarm">
+            <summary>
+            Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._entPitWat">
+            <summary>
+            Энтальпия питательной воды, Дж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.EntPitWat">
+            <summary>
+            Энтальпия питательной воды, Дж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._entHeatWat">
+            <summary>
+            Энтальпия нагретого пара, Дж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.EntHeatWat">
+            <summary>
+            Энтальпия нагретого пара, Дж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._entBoilWat">
+            <summary>
+            Энтальпия кипящей воды, Дж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.EntBoilWat">
+            <summary>
+            Энтальпия кипящей воды, Дж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._warmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара Q_k, кВт
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.WarmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара Q_k, кВт
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._warmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.WarmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._warmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.WarmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._warmBurnHigh">
+            <summary>
+            Высшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.WarmBurnHigh">
+            <summary>
+            Высшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._n2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.N2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._o2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.O2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._co2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.CO2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._so2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.SO2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._h2o">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.H2O">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._warmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.WarmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._burnco2">
+            <summary>
+            Средний состав продуктов сгорания - углекислый газ CO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.BurnCO2">
+            <summary>
+            Средний состав продуктов сгорания - углекислый газ CO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._burnso2">
+            <summary>
+            Средний состав продуктов сгорания - сернистый газ SO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.BurnSO2">
+            <summary>
+            Средний состав продуктов сгорания сернистого газа SO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._burnh2o">
+            <summary>
+            Средний состав продуктов сгорания - пары воды H2O, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.BurnH2O">
+            <summary>
+            Средний состав продуктов сгорания - пары воды H2O, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._burnn2">
+            <summary>
+            Средний состав продуктов сгорания - азот N2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.BurnN2">
+            <summary>
+            Средний состав продуктов сгорания - азот N2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._burno2">
+            <summary>
+            Средний состав продуктов сгорания - кислород O2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.BurnO2">
+            <summary>
+            Средний состав продуктов сгорания - кислород O2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._valpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.VAlpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._entOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.EntOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossOutWarm">
+            <summary>
+            Потери теплоты с физическим шлаком (нигде не используется), кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossOutWarm">
+            <summary>
+            Потери теплоты с физическим шлаком (нигде не используется), кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._lossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.LossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._kpd">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.KPD">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.TverdToplivo._rashodTopl">
+            <summary>
+            Расход топлива, м3/с
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.TverdToplivo.RashodTopl">
+            <summary>
+            Расход топлива, м3/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._parVyh">
+            <summary>
+             Выход пара, кг/с 
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.ParVyh">
+            <summary>
+             Выход пара, кг/с 
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._rashWat">
+            <summary>
+             Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.RashWat">
+            <summary>
+             Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._tempPitWat">
+            <summary>
+             Температура питательной воды, °C
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.TempPitWat">
+            <summary>
+             Температура питательной воды, °C
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._tempHeatWat">
+            <summary>
+             Температура нагретого пара, °C
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.TempHeatWat">
+            <summary>
+             Температура нагретого пара, °C
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._pressure">
+            <summary>
+             Давление внутри барабана, Па
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.Pressure">
+            <summary>
+             Давление внутри барабана, Па
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._tempRabT">
+            <summary>
+             Температура рабочего топлива, °C
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.TempRabT">
+            <summary>
+             Температура рабочего топлива, °C
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodCH4">
+            <summary>
+             Содержание СH4, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodCH4">
+            <summary>
+             Содержание СH4, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodC2H6">
+            <summary>
+             Содержание C2H6, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodC2H6">
+            <summary>
+             Содержание C2H6, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodC3H8">
+            <summary>
+             Содержание C3H8, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodC3H8">
+            <summary>
+             Содержание C3H8, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodC4H10">
+            <summary>
+             Содержание C4H10, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodC4H10">
+            <summary>
+             Содержание C4H10, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodC5H12">
+            <summary>
+             Содержание C5H12, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodC5H12">
+            <summary>
+             Содержание C5H12, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodC6H14">
+            <summary>
+             Содержание C6H14, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodC6H14">
+            <summary>
+             Содержание C6H14, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodCO">
+            <summary>
+             Содержание CO, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodCO">
+            <summary>
+             Содержание CO, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodCO2">
+            <summary>
+             Содержание CO2,%
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodCO2">
+            <summary>
+             Содержание CO2,%
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodN2">
+            <summary>
+             Содержание N2, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodN2">
+            <summary>
+             Содержание N2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodO2">
+            <summary>
+             Содержание O2, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodO2">
+            <summary>
+             Содержание O2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodH2S">
+            <summary>
+             Содержание H2S, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodH2S">
+            <summary>
+             Содержание H2S, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._sodH2">
+            <summary>
+             Содержание H2, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.SodH2">
+            <summary>
+             Содержание H2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._alpha">
+            <summary>
+             Коэффициент избытка воздуха, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.Alpha">
+            <summary>
+             Коэффициент избытка воздуха, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._tempVozd">
+            <summary>
+             Температура воздуха, °C
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.TempVozd">
+            <summary>
+             Температура воздуха, °C
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._tempOut">
+            <summary>
+             Температура уходящих газов, °C
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.TempOut">
+            <summary>
+             Температура уходящих газов, °C
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._qChem">
+            <summary>
+             Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.QChem">
+            <summary>
+             Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._qMech">
+            <summary>
+             Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.QMech">
+            <summary>
+             Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._qCold">
+            <summary>
+             Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.QCold">
+            <summary>
+             Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._qWarm">
+            <summary>
+             Величина потерь тепла с физическим теплом шлаков, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.GasToplivo.QWarm">
+            <summary>
+             Величина потерь тепла с физическим теплом шлаков, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._entPitWat">
+            <summary>
+            Энтальпия питательной воды, Дж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.EntPitWat">
+            <summary>
+            Энтальпия питательной воды, Дж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._entHeatWat">
+            <summary>
+            Энтальпия нагретого пара, Дж
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.EntHeatWat">
+            <summary>
+            Энтальпия нагретого пара, Дж
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._entBoilWat">
+            <summary>
+            Энтальпия кипящей воды,Дж
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._warmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара, кВт
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.WarmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара, кВт
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._warmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/м3
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.WarmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/м3
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._warmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/м3
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.WarmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/м3
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._warmBurnHigh">
+            <summary>
+            Высшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._n2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.N2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._o2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.O2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._co2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.CO2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._so2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.SO2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._h2o">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.H2O">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._warmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.WarmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._burnco2">
+            <summary>
+            Средний состав продуктов сгорания - углекислого газа CO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.BurnCO2">
+            <summary>
+            Средний состав продуктов сгорания - углекислого газа CO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._burnso2">
+            <summary>
+            Средний состав продуктов сгорания - сернистого газа SO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.BurnSO2">
+            <summary>
+            Средний состав продуктов сгорания - сернистого газа SO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._burnh2o">
+            <summary>
+            Средний состав продуктов сгорания - паров воды H2O, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.BurnH2O">
+            <summary>
+            Средний состав продуктов сгорания - паров воды H2O, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._burnn2">
+            <summary>
+            Средний состав продуктов сгорания - азота N2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.BurnN2">
+            <summary>
+            Средний состав продуктов сгорания - азота N2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._burno2">
+            <summary>
+            Средний состав продуктов сгорания - кислорода O2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.BurnO2">
+            <summary>
+            Средний состав продуктов сгорания - кислорода O2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._valpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.VAlpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._entOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.EntOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossOutWarm">
+            <summary>
+            Потери тепла с физическим шлаком, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossOutWarm">
+            <summary>
+            Потери тепла с физическим шлаком, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._lossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.LossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._kpd">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.KPD">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.GasToplivo._rashodTopl">
+            <summary>
+            Расход топлива, кг/с
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.GasToplivo.RashodTopl">
+            <summary>
+            Расход топлива, кг/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._parVyh">
+            <summary>
+            Выход пара, кг/с
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.ParVyh">
+            <summary>
+            Выход пара, кг/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._rashWat">
+            <summary>
+            Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.RashWat">
+            <summary>
+            Расход воды на продувку котла, кг/с
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._tempPitWat">
+            <summary>
+            Температура питательной воды, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.TempPitWat">
+            <summary>
+            Температура питательной воды, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._tempHeatWat">
+            <summary>
+            Температура нагретого пара, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.TempHeatWat">
+            <summary>
+            Температура нагретого пара, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._pressure">
+            <summary>
+            Давление внутри барабана, атм
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.Pressure">
+            <summary>
+            Давление внутри барабана, атм
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._tempRabT">
+            <summary>
+            Температура рабочего топлива, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.TempRabT">
+            <summary>
+            Температура рабочего топлива, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodH">
+            <summary>
+            Содержание водорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodH">
+            <summary>
+            Содержание водорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodC">
+            <summary>
+            Содержание углерода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodC">
+            <summary>
+            Содержание углерода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodO">
+            <summary>
+            Содержание кислорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodO">
+            <summary>
+            Содержание кислорода, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodS">
+            <summary>
+            Содержание серы, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodS">
+            <summary>
+            Содержание серы, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodWP">
+            <summary>
+            Содержание водяных паров, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodWP">
+            <summary>
+            Содержание водяных паров, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._sodN">
+            <summary>
+            Содержание азота, рабочая масса, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.SodN">
+            <summary>
+            Содержание азота, рабочая масса, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._alpha">
+            <summary>
+            Коэффициент избытка воздуха, ед.
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.Alpha">
+            <summary>
+            Коэффициент избытка воздуха, ед.
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._tempVozd">
+            <summary>
+            Температура воздуха, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.TempVozd">
+            <summary>
+            Температура воздуха, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._tempOut">
+            <summary>
+            Температура уходящих газов, °С
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.TempOut">
+            <summary>
+            Температура уходящих газов, °С
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._qChem">
+            <summary>
+            Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.QChem">
+            <summary>
+            Величина химической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._qMech">
+            <summary>
+            Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.QMech">
+            <summary>
+            Величина механической неполноты сгорания топлива, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._qCold">
+            <summary>
+            Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.QCold">
+            <summary>
+            Величина потерь тепла от наружного охлаждения, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._qWarm">
+            <summary>
+            Величина потерь тепла с физическим теплом шлаков, %
+            </summary>
+        </member>
+        <member name="P:TeploBalanceKotelMathLib.ZhidkToplivo.QWarm">
+            <summary>
+            Величина потерь тепла с физическим теплом шлаков, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._entPitWat">
+            <summary>
+            Энтальпия питательной воды, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.EntPitWat">
+            <summary>
+            Энтальпия питательной воды, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._entHeatWat">
+            <summary>
+            Энтальпия нагретого пара, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.EntHeatWat">
+            <summary>
+            Энтальпия нагретого пара, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._entBoilWat">
+            <summary>
+            Энтальпия кипящей воды, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.EntBoilWat">
+            <summary>
+            Энтальпия кипящей воды, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._warmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара, кВт
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.WarmQk">
+            <summary>
+            Тепло, полезно затраченное на выработку пара, кВт
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._warmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.WarmFuel">
+            <summary>
+            Физическое тепло подогретого топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._warmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.WarmBurnLow">
+            <summary>
+            Низшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LambdaAlpha">
+            <summary>
+            Удельная теплота парообразования, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._warmBurnHigh">
+            <summary>
+            Высшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.WarmBurnHigh">
+            <summary>
+            Высшая теплотворная способность (теплота сгорания) топлива, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._n2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.N2">
+            <summary>
+            Теплоемкость азота, кДж/(м3*К) 
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._o2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.O2">
+            <summary>
+            Теплоемкость кислорода, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._co2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.CO2">
+            <summary>
+            Теплоемкость углекислого газа CO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._so2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.SO2">
+            <summary>
+            Теплоемкость сернистого газа SO2, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._h2o">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.H2O">
+            <summary>
+            Теплоемкость паров воды, кДж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._warmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.WarmHave">
+            <summary>
+            Располагаемое тепло Q_p, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._burnco2">
+            <summary>
+            Средний состав продуктов сгорания - углекислый газ CO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.BurnCO2">
+            <summary>
+            Средний состав продуктов сгорания - углекислый газ CO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._burnso2">
+            <summary>
+            Средний состав продуктов сгорания - сернистый газ SO2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.BurnSO2">
+            <summary>
+            Средний состав продуктов сгорания - сернистый газ SO2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._burnh2o">
+            <summary>
+            Средний состав продуктов сгорания - пары воды H2O, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.BurnH2O">
+            <summary>
+            Средний состав продуктов сгорания - пары воды H2O, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._burnn2">
+            <summary>
+            Средний состав продуктов сгорания - азот N2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.BurnN2">
+            <summary>
+            Средний состав продуктов сгорания - азот N2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._burno2">
+            <summary>
+            Средний состав продуктов сгорания - кислород O2, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.BurnO2">
+            <summary>
+            Средний состав продуктов сгорания - кислород O2, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._valpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.VAlpha">
+            <summary>
+            Необходимый объем воздуха, м3/м3
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._entOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.EntOutGas">
+            <summary>
+            Энтальпия уходящих газов, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LossGas">
+            <summary>
+            Потери тепла с уходящими газами, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LossChem">
+            <summary>
+            Потери тепла от химической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LossMech">
+            <summary>
+            Потери тепла от механической неполноты сгорания, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LossOutCold">
+            <summary>
+            Потери тепла от наружного охлаждения, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._lossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.LossFullWarm">
+            <summary>
+            Расходная часть теплового баланса, кДж/кг
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._kpd">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.KPD">
+            <summary>
+            КПД котла, %
+            </summary>
+        </member>
+        <member name="F:TeploBalanceKotelMathLib.ZhidkToplivo._rashodTopl">
+            <summary>
+            Расход топлива, м3/с
+            </summary>
+        </member>
+        <member name="M:TeploBalanceKotelMathLib.ZhidkToplivo.RashodTopl">
+            <summary>
+            Расход топлива, м3/с
+            </summary>
+        </member>
+    </members>
+</doc>

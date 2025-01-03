@@ -1,0 +1,147 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    @* <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> *@
+</head>
+<body>
+    
+    @using (Html.BeginForm("DataInputZhidk", "Home", FormMethod.Post))
+    {
+        <h2>
+            Жидкое топливо
+        </h2>
+        <div class="container" >
+            
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Температура питательной воды, °C</td>
+                            <td>@Html.TextBox("DataInputZhidk.TempPitWat", (double)(ViewBag.DataInputZhidk.TempPitWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура перегретого пара, °C</td>
+                            <td>@Html.TextBox("DataInputZhidk.TempHeatWat", (double)(ViewBag.DataInputZhidk.TempHeatWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Давление внутри барабана, Па</td>
+                            <td>@Html.TextBox("DataInputZhidk.Pressure", (double)(ViewBag.DataInputZhidk.Pressure), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Выход пара, кг/с</td>
+                            <td>@Html.TextBox("DataInputZhidk.ParVyh", (double)(ViewBag.DataInputZhidk.ParVyh), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Расход воды на продувку котла, кг/с</td>
+                            <td>@Html.TextBox("DataInputZhidk.RashWat", (double)(ViewBag.DataInputZhidk.RashWat), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура рабочего топлива, °С</td>
+                            <td>@Html.TextBox("DataInputZhidk.TempRabT", (double)(ViewBag.DataInputZhidk.TempRabT), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание водорода H, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodH", (double)(ViewBag.DataInputZhidk.SodH), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание углерода C, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodC", (double)(ViewBag.DataInputZhidk.SodC), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание кислорода O, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodO", (double)(ViewBag.DataInputZhidk.SodO), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание серы S, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodS", (double)(ViewBag.DataInputZhidk.SodS), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание водяных паров, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodWP", (double)(ViewBag.DataInputZhidk.SodWP), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание азота N, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodN", (double)(ViewBag.DataInputZhidk.SodN), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        @* <tr>
+                            <td>Содержание CO, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodCO", (double)(ViewBag.DataInput.SodCO), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание CO2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodCO2", (double)(ViewBag.DataInput.SodCO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание N2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodN2", (double)(ViewBag.DataInput.SodN2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание O2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodO2", (double)(ViewBag.DataInput.SodO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2S, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodH2S", (double)(ViewBag.DataInput.SodH2S), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodH2", (double)(ViewBag.DataInput.SodH2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr> *@
+                        <tr>
+                            <td>Коэффициент избытка воздуха</td>
+                            <td>@Html.TextBox("DataInputZhidk.Alpha", (double)(ViewBag.DataInputZhidk.Alpha), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура воздуха, °C</td>
+                            <td>@Html.TextBox("DataInputZhidk.TempVozd", (double)(ViewBag.DataInputZhidk.TempVozd), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура уходящих газов, °C </td>
+                            <td>@Html.TextBox("DataInputZhidk.TempOut", (double)(ViewBag.DataInputZhidk.TempOut), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от химической неполноты сгорания топлива, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.QChem", (double)(ViewBag.DataInputZhidk.QChem), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от механической неполноты сгорания топлива, % </td>
+                            <td>@Html.TextBox("DataInputZhidk.QMech", (double)(ViewBag.DataInputZhidk.QMech), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Потери тепла от наружного охлаждения, % </td>
+                            <td>@Html.TextBox("DataInputZhidk.QCold", (double)(ViewBag.DataInputZhidk.QCold), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+
+
+
+
+
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 20px">
+            <button type="submit" name="action" value="toSolver" style="font-size: 16px" class="btn btn-primary">Расчет</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>

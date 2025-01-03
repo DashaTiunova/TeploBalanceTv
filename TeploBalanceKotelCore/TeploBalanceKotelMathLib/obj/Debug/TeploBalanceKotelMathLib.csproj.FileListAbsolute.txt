@@ -1,0 +1,21 @@
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.xml
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.dll
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.pdb
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.AssemblyReference.cache
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.CoreCompileInputs.cache
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.dll
+C:\Users\Dashulkin\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.xml
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.AssemblyReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.CoreCompileInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Тиунова Дарья\143901mag_TiunovaDaria\App\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.pdb
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.xml
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.dll
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\bin\Debug\TeploBalanceKotelMathLib.pdb
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.AssemblyReference.cache
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.csproj.CoreCompileInputs.cache
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.dll
+C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelMathLib\obj\Debug\TeploBalanceKotelMathLib.pdb

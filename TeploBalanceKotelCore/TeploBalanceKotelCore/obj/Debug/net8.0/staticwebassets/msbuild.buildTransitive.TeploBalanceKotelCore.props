@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TeploBalanceKotelCore.props" />
+</Project>

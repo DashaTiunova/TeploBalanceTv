@@ -1,0 +1,30 @@
+﻿@model TeploBalanceKotelCore.ViewModels.RegisterViewModel
+@{
+   ViewData["Title"]="Регистрация";
+
+}
+<div class="text-center">
+    <h1 class="display-4">Регистрация</h1>
+  
+
+    <form method="post" action="/Register/Register" class="text-start">
+        <div class="mb-3">
+            <label class="form-label">Логин</label>
+            <input type="text" name="UserName"  class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="text" name="Email" class="form-control" required />
+        </div>
+        
+        <div class="mb-3">
+            <label class="form-label">Пароль</label>
+            <input type="password" name="Password" class="form-control" />
+        </div>
+   
+    
+        <div class="mb-3"> 
+        <button type="submit" class="btn btn-primary">Зарегистрироваться</button>
+        </div>
+    </form>
+</div>
