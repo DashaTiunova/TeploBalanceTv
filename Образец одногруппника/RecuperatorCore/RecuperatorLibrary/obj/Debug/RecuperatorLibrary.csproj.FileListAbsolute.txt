@@ -1,0 +1,25 @@
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.AssemblyReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.CoreCompileInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.xml
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.xml
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.pdb
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.AssemblyReference.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.CoreCompileInputs.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.xml
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\RecuperatorLibrary.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.AssemblyReference.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\RecuperatorLibrary.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\Recupera.D7005F05.Up2Date
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorLibrary\obj\Debug\Recupera.D7005F05.Up2Date

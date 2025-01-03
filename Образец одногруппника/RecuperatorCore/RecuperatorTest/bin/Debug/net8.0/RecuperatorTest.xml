@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RecuperatorTest</name>
+    </assembly>
+    <members>
+        <member name="M:RecuperatorTest.Tests.CalculationTest_MathLib">
+            <summary>
+            Метод тестирования математической библиотеки
+            </summary>
+        </member>
+    </members>
+</doc>

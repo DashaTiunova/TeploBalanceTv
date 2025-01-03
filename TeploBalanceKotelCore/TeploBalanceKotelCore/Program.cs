@@ -1,5 +1,3 @@
-using AutoMapper;
-using TeploBalanceKotelCore;
 using Microsoft.Extensions.Options;
 using TeploBalanceKotelCore.Data;
 using TeploBalanceKotelCore.Models;
@@ -9,23 +7,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using TeploBalanceKotelCore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+
 
 builder.Services.AddDbContext<DataContext_TverdToplivo>(
     options => options
         .UseSqlite("Data Source= TeploBalanceKotelCoreBase.db")
     );
-// AutoMapper Configuration
-var mapper = new MapperConfiguration(mc => mc.AddProfile<MapperProfile>())
-    .CreateMapper();
-builder.Services.AddSingleton(mapper);
-builder.Services.AddScoped<TverdToplivoService>();
-
 //Сервис авторизации
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options => options.LoginPath = "/Auth/Index");

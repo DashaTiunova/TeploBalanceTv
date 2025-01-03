@@ -1,11 +1,8 @@
-using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using System.Diagnostics;
 using TeploBalanceKotelCore.Data;
 using TeploBalanceKotelCore.Models;
-using TeploBalanceKotelCore.Services;
 using TeploBalanceKotelMathLib;
 
 namespace TeploBalanceKotelCore.Controllers
@@ -18,208 +15,44 @@ namespace TeploBalanceKotelCore.Controllers
         private User _user;
         private VarTverdToplivo _varTverdToplivo;
         private DataInputVariant_TverdToplivo _datainputvariant_tverdtoplivo;
-        private TverdToplivoService _service;
-        private readonly IMapper _mapper;
-        public HomeController(ILogger<HomeController> logger, DataContext_TverdToplivo context, TverdToplivoService service, IMapper mapper)
+        public HomeController(ILogger<HomeController> logger, DataContext_TverdToplivo context )
         {
             _logger = logger;
             _context = context;
-            _service = service;
-            _mapper = mapper;
         }
 
-        public IActionResult Index()
+        public ActionResult Index()
         {
-            return RedirectToAction("DataInputTverd");
+            return RedirectToAction("DataInputTverd"); ;
         }
-        #region Отображение страницы с входными данными
-        public IActionResult DataInputTverd()
+
+        public IActionResult DemoForTverd()
         {
-            DataInputVariant_TverdToplivo loaded_variant = null;
-            if (TempData["LoadedVariant"] != null)
+            var userIdStr = User.FindFirst("UserId")?.Value;
+            if (userIdStr == null)
             {
-                loaded_variant = JsonConvert.DeserializeObject<DataInputVariant_TverdToplivo>(TempData["LoadedVariant"].ToString()); // Десериализация объекта
+                // Возвращаем ошибку или редирект, если пользователь не найден
+                return Unauthorized();
             }
-            var viewModel = new VariantTverdModel
-            {
-                UserId = _service.GetUserId(User.Identity.Name),
-                TverdVariants = _service.GetVariants(_service.GetUserId(User.Identity.Name))
-            };
 
-            TverdToplivo _cs = new TverdToplivo();
-            DataInputVariant_TverdToplivo variant = new DataInputVariant_TverdToplivo();
-            if (loaded_variant != null && loaded_variant.OwnerID_User != 0)
+            int userId = int.Parse(userIdStr);
+            if (_context.VarTverdToplivos.Any(p => p.OwnerID_User == userId))
             {
-                variant = loaded_variant;
+                return View();
             }
-            #region --- Задать исходные данные для первого найденного варианта
-            if (variant.OwnerID_User != 0)
-            {
-                _cs.TempPitWat = variant.TempPitWat;
-                _cs.TempHeatWat = variant.TempHeatWat;
-                _cs.Pressure = variant.Pressure;
-                _cs.ParVyh = variant.ParVyh;
-                _cs.RashWat = variant.RashWat;
-                _cs.TempRabT = variant.TempRabT;
-                _cs.SodH = variant.SodH;
-                _cs.SodWP = variant.SodWP;
-                _cs.SodC = variant.SodC;
-                _cs.SodO = variant.SodO;
-                _cs.SodS = variant.SodS;
-                _cs.Alpha = variant.Alpha;
-                _cs.TempVozd = variant.TempVozd;
-                _cs.TempOut = variant.TempOut;
-                _cs.QChem = variant.QChem;
-                _cs.QMech = variant.QMech;
-                _cs.QCold = variant.QCold;
-                _cs.QWarm = variant.QWarm;
+            var var_default = new VarTverdToplivo
+                {
+                    NameVariant_TverdToplivo = "Шаблон",
+                    DateVariant= System.DateTime.Now,
+                    Description="Это шаблонный вариант расчета",
+                    OwnerID_User=userId
 
-            }
-            else
-            {
-                _cs.TempPitWat = 30d;
-                _cs.TempHeatWat = 160d;
-                _cs.Pressure = 2d;
-                _cs.ParVyh = 2d;
-                _cs.RashWat = 0.7d;
-                _cs.TempRabT = 10d;
-                _cs.SodH = 3.5d;
-                _cs.SodWP = 8.5d;
-                _cs.SodC = 62.6d;
-                _cs.SodO = 8.5d;
-                _cs.SodS = 0.4d;
-                _cs.Alpha = 2d;
-                _cs.TempVozd = 100d;
-                _cs.TempOut = 180d;
-                _cs.QChem = 2d;
-                _cs.QMech = 1.5d;
-                _cs.QCold = 1d;
-                _cs.QWarm = 0.1d;
-            }
-            #endregion --- Задать исходные данные для первого найденного варианта
-
-            ViewBag.DataInput = _cs;
-
-            return RedirectToAction("DataInputTverd");
+                };
+                _context.VarTverdToplivos.Add(var_default);
+                _context.SaveChanges();
+            
+            return View();
         }
-        #endregion Отображение страницы с входными данными
-
-        #region Получение результата расчёта
-        [HttpPost]
-        public IActionResult DataInputTverd(DataInputModelTverd DataInputTverd)
-        {
-            DataOutputModelTverd _rezult = new DataOutputModelTverd(DataInputTverd);
-
-            ViewBag.EntPitWat = _rezult.EntPitWat;
-            ViewBag.EntHeatWat = _rezult.EntHeatWat;
-            ViewBag.EntBoilWat = _rezult.EntBoilWat;
-            ViewBag.WarmQk = _rezult.WarmQk;
-            ViewBag.WarmFuel = _rezult.WarmFuel;
-            ViewBag.WarmBurnLow = _rezult.WarmBurnLow;
-            ViewBag.LambdaAlpha = _rezult.LambdaAlpha;
-            ViewBag.WarmBurnHigh = _rezult.WarmBurnHigh;
-            ViewBag.N2 = _rezult.N2;
-            ViewBag.O2 = _rezult.O2;
-            ViewBag.CO2 = _rezult.CO2;
-            ViewBag.SO2 = _rezult.SO2;
-            ViewBag.H2O = _rezult.H2O;
-            ViewBag.WarmHave = _rezult.WarmHave;
-            ViewBag.BurnCO2 = _rezult.BurnCO2;
-            ViewBag.BurnSO2 = _rezult.BurnSO2;
-            ViewBag.BurnH2O = _rezult.BurnH2O;
-            ViewBag.BurnN2 = _rezult.BurnN2;
-            ViewBag.BurnO2 = _rezult.BurnO2;
-            ViewBag.VAlpha = _rezult.VAlpha;
-            ViewBag.EntOutGas = _rezult.EntOutGas;
-            ViewBag.LossGas = _rezult.LossGas;
-            ViewBag.LossChem = _rezult.LossChem;
-            ViewBag.LossMech = _rezult.LossMech;
-            ViewBag.LossOutCold = _rezult.LossOutCold;
-            ViewBag.LossFullWarm = _rezult.LossFullWarm;
-            ViewBag.KPD = _rezult.KPD;
-            ViewBag.RashodTopl = _rezult.RashodTopl;
-
-            var lists = new List<double>()
-            {
-                _rezult.EntPitWat,
-                _rezult.EntHeatWat,
-                _rezult.EntBoilWat,
-                _rezult.WarmQk,
-                _rezult.WarmFuel,
-                _rezult.WarmBurnLow,
-                _rezult.LambdaAlpha,
-                _rezult.WarmBurnHigh,
-                _rezult.N2,
-                _rezult.O2,
-                _rezult.CO2,
-                _rezult.SO2,
-                _rezult.H2O,
-                _rezult.WarmHave,
-                _rezult.BurnCO2,
-                _rezult.BurnSO2,
-                _rezult.H2O,
-                _rezult.N2,
-                _rezult.O2,
-                _rezult.VAlpha,
-                _rezult.EntOutGas,
-                _rezult.LossGas,
-                _rezult.LossChem,
-                _rezult.LossMech,
-                _rezult.LossOutCold,
-                _rezult.LossFullWarm,
-                _rezult.KPD,
-                _rezult.RashodTopl
-
-
-            };
-
-            ViewBag.lists = Newtonsoft.Json.JsonConvert.SerializeObject(lists);
-
-            return View("RezultTverd");
-        }
-        #endregion Получение результата расчёта
-        #region Сохранение варианта
-        [HttpPost]
-        public IActionResult SaveVariantForTverd(TverdVariantAddDtoModel model)
-        {
-            var temp_variant = new VariantAddDto
-            {
-                Name = model.Name,
-                Description = model.Description,
-                UserId = _context.Users.FirstOrDefault(x => x.UserName == User.Identity.Name).ID_User,
-            };
-            var variant = _mapper.Map<VarTverdToplivo>(temp_variant);
-            _context.VarTverdToplivos.Add(variant);
-            _context.SaveChanges();
-            var temp_variantUser = new VariantUserTverdAddDtoModel
-            {
-                VariantId = _service.GetVariantId(temp_variant),
-                UserId = model.UserId,
-                ParVyh = model.ParVyh,
-                RashWat = model.RashWat,
-                TempPitWat = model.TempPitWat,
-                TempHeatWat = model.TempHeatWat,
-                Pressure = model.Pressure,
-                TempRabT = model.TempRabT,
-                SodH = model.SodH,
-                SodO = model.SodO,
-                SodC = model.SodC,
-                SodS = model.SodS,
-                SodWP = model.SodWP,
-                Alpha = model.Alpha,
-                TempVozd = model.TempVozd,
-                TempOut = model.TempOut,
-                QChem = model.QChem,
-                QMech = model.QMech,
-                QCold = model.QCold,
-                QWarm = model.QWarm,
-            };
-            var variantUser = _mapper.Map<DataInputVariant_TverdToplivo>(temp_variantUser);
-            _context.DataInputVariants_TverdToplivo.Add(variantUser);
-            _context.SaveChanges();
-            return RedirectToAction("DataInputTverd");
-        }
-        #endregion
         //Input для газа
         public IActionResult DataInput()
         {
@@ -294,7 +127,7 @@ namespace TeploBalanceKotelCore.Controllers
         }
 
         //Input для твердого
-        public IActionResult DataInputTverdZapas()
+        public IActionResult DataInputTverd()
         {
             TverdToplivo _cs = new TverdToplivo();
 
@@ -474,8 +307,80 @@ namespace TeploBalanceKotelCore.Controllers
         }
 
 
-       
-       
+        //Output для твердого
+        [HttpPost]
+        public IActionResult DataInputTverd(DataInputModelTverd DataInputTverd)
+        {
+            DataOutputModelTverd _rezult = new DataOutputModelTverd(DataInputTverd);
+
+            ViewBag.EntPitWat = _rezult.EntPitWat;
+            ViewBag.EntHeatWat = _rezult.EntHeatWat;
+            ViewBag.EntBoilWat = _rezult.EntBoilWat;
+            ViewBag.WarmQk = _rezult.WarmQk;
+            ViewBag.WarmFuel = _rezult.WarmFuel;
+            ViewBag.WarmBurnLow = _rezult.WarmBurnLow;
+            ViewBag.LambdaAlpha = _rezult.LambdaAlpha;
+            ViewBag.WarmBurnHigh = _rezult.WarmBurnHigh;
+            ViewBag.N2 = _rezult.N2;
+            ViewBag.O2 = _rezult.O2;
+            ViewBag.CO2 = _rezult.CO2;
+            ViewBag.SO2 = _rezult.SO2;
+            ViewBag.H2O = _rezult.H2O;
+            ViewBag.WarmHave = _rezult.WarmHave;
+            ViewBag.BurnCO2 = _rezult.BurnCO2;
+            ViewBag.BurnSO2 = _rezult.BurnSO2;
+            ViewBag.BurnH2O = _rezult.BurnH2O;
+            ViewBag.BurnN2 = _rezult.BurnN2;
+            ViewBag.BurnO2 = _rezult.BurnO2;
+            ViewBag.VAlpha = _rezult.VAlpha;
+            ViewBag.EntOutGas = _rezult.EntOutGas;
+            ViewBag.LossGas = _rezult.LossGas;
+            ViewBag.LossChem = _rezult.LossChem;
+            ViewBag.LossMech = _rezult.LossMech;
+            ViewBag.LossOutCold = _rezult.LossOutCold;
+            ViewBag.LossFullWarm = _rezult.LossFullWarm;
+            ViewBag.KPD = _rezult.KPD;
+            ViewBag.RashodTopl = _rezult.RashodTopl;
+
+            var lists = new List<double>()
+            {
+                _rezult.EntPitWat,
+                _rezult.EntHeatWat,
+                _rezult.EntBoilWat,
+                _rezult.WarmQk,
+                _rezult.WarmFuel,
+                _rezult.WarmBurnLow,
+                _rezult.LambdaAlpha,
+                _rezult.WarmBurnHigh,
+                _rezult.N2,
+                _rezult.O2,
+                _rezult.CO2,
+                _rezult.SO2,
+                _rezult.H2O,
+                _rezult.WarmHave,
+                _rezult.BurnCO2,
+                _rezult.BurnSO2,
+                _rezult.H2O,
+                _rezult.N2,
+                _rezult.O2,
+                _rezult.VAlpha,
+                _rezult.EntOutGas,
+                _rezult.LossGas,
+                _rezult.LossChem,
+                _rezult.LossMech,
+                _rezult.LossOutCold,
+                _rezult.LossFullWarm,
+                _rezult.KPD,
+                _rezult.RashodTopl
+
+
+            };
+
+            ViewBag.lists = Newtonsoft.Json.JsonConvert.SerializeObject(lists);
+
+            return View("RezultTverd");
+        }
+
         public IActionResult Privacy()
         {
             return View();

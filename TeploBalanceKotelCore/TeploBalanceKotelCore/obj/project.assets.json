@@ -2,22 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "AutoMapper/13.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Extensions.Options": "6.0.0"
-        },
-        "compile": {
-          "lib/net6.0/AutoMapper.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/AutoMapper.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1069,21 +1053,6 @@
     }
   },
   "libraries": {
-    "AutoMapper/13.0.1": {
-      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
-      "type": "package",
-      "path": "automapper/13.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "automapper.13.0.1.nupkg.sha512",
-        "automapper.nuspec",
-        "icon.png",
-        "lib/net6.0/AutoMapper.dll",
-        "lib/net6.0/AutoMapper.xml"
-      ]
-    },
     "Humanizer.Core/2.14.1": {
       "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "type": "package",
@@ -2655,7 +2624,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoMapper >= 13.0.1",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.8",
@@ -2670,11 +2638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
+      "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
       "projectName": "TeploBalanceKotelCore",
-      "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
+      "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
       "packagesPath": "C:\\Users\\Dashulkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\obj\\",
+      "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dashulkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2692,8 +2660,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
-              "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
+            "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
+              "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
             }
           }
         }
@@ -2713,10 +2681,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "AutoMapper": {
-            "target": "Package",
-            "version": "[13.0.1, )"
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.8, )"

@@ -1,0 +1,175 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    @model VariantViewmodel
+    <h1>Расчет петлевого металлического рекуператора</h1>
+    @using (Html.BeginForm("DataInput", "Home", FormMethod.Post))
+    {
+        <p>
+        </p>
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <table class="table" name="DataTable">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Температура воздуха на выходе из рекуператора, °С</td>
+                            <td>@Html.TextBox("DataInput.Temp_Air_Output", (double)(ViewBag.DataInput.Temp_Air_Output), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура воздуха на входе в рекуператор, °С</td>
+                            <td>@Html.TextBox("DataInput.Temp_Air_Input", (double)(ViewBag.DataInput.Temp_Air_Input), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура продуктов сгорания перед рекуператором, °С</td>
+                            <td>@Html.TextBox("DataInput.Temp_Product_Input", (double)(ViewBag.DataInput.Temp_Product_Input), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Расход воздуха, м3/с</td>
+                            <td>@Html.TextBox("DataInput.Consump_Air", (double)(ViewBag.DataInput.Consump_Air), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Расход продуктов сгорания, м3/с</td>
+                            <td>@Html.TextBox("DataInput.Consump_Product", (double)(ViewBag.DataInput.Consump_Product), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Количество CO2, %</td>
+                            <td>@Html.TextBox("DataInput.Percent_CO2", (double)(ViewBag.DataInput.Percent_CO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                                                <tr>
+                            <td>Количество H2O, %</td>
+                            <td>@Html.TextBox("DataInput.Percent_H2O", (double)(ViewBag.DataInput.Percent_H2O), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Справочные данные - радиус секции</td>
+                            <td>@Html.TextBox("DataInput.Radius_Section", (double)(ViewBag.DataInput.Radius_Section), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 20px">
+            <button type="submit" name="action" value="toSolver" style="font-size: 16px" class="btn btn-primary">Расчет</button>
+        </div>
+
+    }
+    @if (!string.IsNullOrEmpty(TempData["InvalidOperationMessage"]?.ToString()))
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["InvalidOperationMessage"]
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(TempData["Message"]?.ToString()))
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Message"]
+        </div>
+    }
+        <div class="form-group">
+        <label for="Variant">Вариант</label>
+        <select id="Variant" name="Variant" class="form-control">
+            @foreach (var item in Model.Variants)
+            {
+                <option value="@item.Id" title="@item.Desc">@item.Name</option>
+            }
+        </select>
+        </div>
+    <div class="container-sm text-center">
+        <div class="row row-cols-auto">
+        @using (Html.BeginForm("DeleteVariant", "Home", FormMethod.Post))
+        {
+            <input type="hidden" name="UserId" value="@Model.UserId">
+            <input type="hidden" id="HiddenVariant1" name="VariantId" value="">
+            <button type="submit" class="btn btn-primary">Удалить</button>
+        }
+        @using (Html.BeginForm("LoadVariant", "Home", FormMethod.Post))
+        {
+            <input type="hidden" name="UserId" value="@Model.UserId">
+            <input type="hidden" id="HiddenVariant2" name="VariantId" value="">
+                    <button type="submit" class="btn btn-primary">Загрузить</button>
+        }
+            </div>
+        </div>
+    @using (Html.BeginForm("SaveVariant", "Home", FormMethod.Post))
+    {
+        <div class="form-group">
+            <input type="hidden" class="form-control" name="UserId" value="@Model.UserId">
+            <input type="hidden" class="form-control" name="Temp_Air_Output" value="@ViewBag.DataInput.Radius_Section">
+            <input type="hidden" class="form-control" name="Temp_Air_Input" value="@ViewBag.DataInput.Temp_Air_Input">
+            <input type="hidden" class="form-control" name="Temp_Product_Input" value="@ViewBag.DataInput.Temp_Product_Input">
+            <input type="hidden" class="form-control" name="Consump_Air" value="@ViewBag.DataInput.Consump_Air">
+            <input type="hidden" class="form-control" name="Consump_Product" value="@ViewBag.DataInput.Consump_Product">
+            <input type="hidden" class="form-control" name="Percent_CO2" value="@ViewBag.DataInput.Percent_CO2">
+            <input type="hidden" class="form-control" name="Percent_H2O" value="@ViewBag.DataInput.Percent_H2O">
+            <input type="hidden" class="form-control" name="Radius_Section" value="@ViewBag.DataInput.Radius_Section">
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Name" placeholder="Название" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Desc" placeholder="Описание" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    }
+    <script>
+        // Находим элементы
+        const selectElement = document.getElementById('Variant');
+        const hiddenInput1 = document.getElementById('HiddenVariant1');
+        const hiddenInput2 = document.getElementById('HiddenVariant2');
+
+        // Обновляем значение скрытого поля в другой форме при изменении выбора
+        selectElement.addEventListener('change', function () {
+            hiddenInput1.value = this.value;
+            hiddenInput2.value = this.value;
+        });
+
+        // Установить начальное значение при загрузке страницы
+        hiddenInput1.value = selectElement.value;
+        hiddenInput2.value = selectElement.value;
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const syncFields = () => {
+                document.querySelector("input[name='Temp_Air_Output']").value =
+                    document.querySelector("input[name='DataInput.Temp_Air_Output']").value;
+                document.querySelector("input[name='Temp_Air_Input']").value =
+                    document.querySelector("input[name='DataInput.Temp_Air_Input']").value;
+                document.querySelector("input[name='Temp_Product_Input']").value =
+                    document.querySelector("input[name='DataInput.Temp_Product_Input']").value;
+                document.querySelector("input[name='Consump_Air']").value =
+                    document.querySelector("input[name='DataInput.Consump_Air']").value;
+                document.querySelector("input[name='Consump_Product']").value =
+                    document.querySelector("input[name='DataInput.Consump_Product']").value;
+                document.querySelector("input[name='Percent_CO2']").value =
+                    document.querySelector("input[name='DataInput.Percent_CO2']").value;
+                document.querySelector("input[name='Percent_H2O']").value =
+                    document.querySelector("input[name='DataInput.Percent_H2O']").value;
+                document.querySelector("input[name='Radius_Section']").value =
+                    document.querySelector("input[name='DataInput.Radius_Section']").value;
+            };
+
+            // Синхронизация перед отправкой второй формы
+            document.querySelector("form[action='/Home/SaveVariant']").addEventListener("submit", syncFields);
+        });
+    </script>
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>

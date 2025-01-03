@@ -599,4 +599,3 @@ C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\Te
 C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore\obj\Debug\net8.0\TeploBalanceKotelCore.pdb
 C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore\obj\Debug\net8.0\TeploBalanceKotelCore.genruntimeconfig.cache
 C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore\obj\Debug\net8.0\ref\TeploBalanceKotelCore.dll
-C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore\bin\Debug\net8.0\AutoMapper.dll

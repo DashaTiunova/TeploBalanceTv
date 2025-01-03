@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeploBalanceKotelCore
 build_property.RootNamespace = TeploBalanceKotelCore
-build_property.ProjectDir = C:\Users\Dashulkin\source\repos\TeploBalanceTv\TeploBalanceTv\TeploBalanceKotelCore\TeploBalanceKotelCore\
+build_property.ProjectDir = C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dashulkin\source\repos\TeploBalanceTv\TeploBalanceTv\TeploBalanceKotelCore\TeploBalanceKotelCore
+build_property.MSBuildProjectDirectory = C:\Users\Dashulkin\source\repos\143901mag_TiunovaDaria\143901mag_TiunovaDaria\TeploBalanceKotelCore\TeploBalanceKotelCore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Auth/Index.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInput.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInput.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInputTverd.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInputTverd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXRUdmVyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInputZhidk.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/DataInputZhidk.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXRaaGlkay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Index.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Privacy.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Rezult.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/Rezult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXp1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/RezultTverd.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/RezultTverd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXp1bHRUdmVyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/RezultZhidk.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Home/RezultZhidk.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXp1bHRaaGlkay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Register/Register.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Register/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/Error.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/_ViewImports.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/_ViewStart.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/source/repos/TeploBalanceTv/TeploBalanceTv/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/_Layout.cshtml]
+[C:/Users/Dashulkin/source/repos/143901mag_TiunovaDaria/143901mag_TiunovaDaria/TeploBalanceKotelCore/TeploBalanceKotelCore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4w2ftej7ma

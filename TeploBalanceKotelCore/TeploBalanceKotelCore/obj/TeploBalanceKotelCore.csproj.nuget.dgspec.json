@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj": {}
+    "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj": {
+    "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
+        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
         "projectName": "TeploBalanceKotelCore",
-        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
+        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
         "packagesPath": "C:\\Users\\Dashulkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\obj\\",
+        "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dashulkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
-                "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
+              "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
+                "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
               }
             }
           }
@@ -50,10 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -102,11 +98,11 @@
         }
       }
     },
-    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
+    "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj",
+        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj",
         "projectName": "TeploBalanceKotelMathLib",
-        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj",
+        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

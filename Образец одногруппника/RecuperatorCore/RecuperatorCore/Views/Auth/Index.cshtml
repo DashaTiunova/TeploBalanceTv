@@ -1,0 +1,20 @@
+﻿
+<form action="/auth/" method="post">
+    <h1>Расчет петлевого металлического рекуператора</h1>
+    @if (!string.IsNullOrEmpty(TempData["AlertMessage"]?.ToString()))
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["AlertMessage"]
+        </div>
+    }
+    <div class="form-group mb-1">
+        <label>Логин</label>
+        <input type="text" class="form-control" name="Login" placeholder="admin" required>
+    </div>
+    <div class="form-group mb-3">
+        <label for="Password">Пароль</label>
+        <input type="password" class="form-control" name="Password" placeholder="admin" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Войти</button>
+    <a href="/Auth/RegisterUser">Зарегистрироваться</a>
+</form>

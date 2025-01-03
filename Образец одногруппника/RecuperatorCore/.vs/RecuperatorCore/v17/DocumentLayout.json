@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\views\\home\\datainput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\views\\home\\datainput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\models\\variantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\models\\variantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|c:\\users\\dashulkin\\downloads\\recuperatorcore\\recuperatorcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04B7F1-C515-47A2-88D8-ED2F8405D51B}|RecuperatorCore\\RecuperatorCore.csproj|solutionrelative:recuperatorcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A969048C-D1E9-46D7-A774-D2D3C5353E0E}|RecuperatorLibrary\\RecuperatorLibrary.csproj|C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\recuperatorlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A969048C-D1E9-46D7-A774-D2D3C5353E0E}|RecuperatorLibrary\\RecuperatorLibrary.csproj|solutionrelative:recuperatorlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VariantViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Models\\VariantViewmodel.cs",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Models\\VariantViewmodel.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Models\\VariantViewmodel.cs",
+              "RelativeToolTip": "RecuperatorCore\\Models\\VariantViewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:49:48.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataInput.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Home\\DataInput.cshtml",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Views\\Home\\DataInput.cshtml",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Home\\DataInput.cshtml",
+              "RelativeToolTip": "RecuperatorCore\\Views\\Home\\DataInput.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:22:44.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RecuperatorCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:22:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecuperatorCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:16:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Program.cs",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Program.cs",
+              "RelativeToolTip": "RecuperatorCore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:16:31.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RecuperatorCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RecuperatorCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:07:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RecuperatorLibrary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\Models\\User.cs",
+              "RelativeToolTip": "RecuperatorLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:54:37.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RecuperatorLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:RecuperatorLibrary.MathLib.temp_Air_Output">
+            <summary>
+            Температура воздуха на выходе из рекуператора, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Temp_Air_Output">
+            <summary>
+            Температура воздуха на выходе из рекуператора, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.temp_Air_Input">
+            <summary>
+            Температура воздуха на входе в рекуператор, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Temp_Air_Input">
+            <summary>
+            Температура воздуха на входе в рекуператор, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.temp_Product_Input">
+            <summary>
+            Температура продуктов сгорания перед рекуператором, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Temp_Product_Input">
+            <summary>
+            Температура продуктов сгорания перед рекуператором, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.consump_Air">
+            <summary>
+            Расход воздуха, м3/с
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Consump_Air">
+            <summary>
+            Расход воздуха, м3/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.consump_Product">
+            <summary>
+            Расход продуктов сгорания, м3/с
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Consump_Product">
+            <summary>
+            Расход продуктов сгорания, м3/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.percent_CO2">
+            <summary>
+            Количество CO2, %
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Percent_CO2">
+            <summary>
+            Количество CO2, %
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.percent_H2O">
+            <summary>
+            Количество H2O, %
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Percent_H2O">
+            <summary>
+            Количество H2O, %
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.radius_Section">
+            <summary>
+            Справочные данные - радиус секции
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.MathLib.Radius_Section">
+            <summary>
+            Справочные данные - радиус секции
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Popravka_Dlina_K">
+            <summary>
+            Поправка на длину канала для Крек,
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Coef_Izluch">
+            <summary>
+            Коэфициент излучения АЧТ, Вт/(м2*К4)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Popravka_K">
+            <summary>
+            Поправка для Крек
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Coef_Conductivity_1">
+            <summary>
+            Коэффициент теплопроводности 1, Вт/(м3*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Coef_Conductivity_2">
+            <summary>
+            Коэффициент теплопроводности 2, Вт/(м3*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Coef_Kinemat_Vyazkosti_1">
+            <summary>
+            Коэффициент кинематической вязкости 1, м2/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Coef_Kinemat_Vyazkosti_2">
+            <summary>
+            Коэффициент кинематической вязкости 2, м2/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Prandtel_Number_1">
+            <summary>
+            Число Прандтля 1
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Prandtel_Number_2">
+            <summary>
+            Число Прандтля 2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.External_Diameter_Pipe">
+            <summary>
+            Внешний диаметр трубы, м
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Internal_Diameter_Pipe">
+            <summary>
+            Внутренний диаметр трубы, м
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Prohodn_Sechenie_Vozd">
+            <summary>
+            Проходное сечение для воздуха, м2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Prohodn_Sechenie_Product">
+            <summary>
+            Проходное сечение для продуктов сгорания, м2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.cp_Hp">
+            <summary>
+            Ср/Нр
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Cp_Hp">
+            <summary>
+            Ср/Нр
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Popravka_Coef_Surface">
+            <summary>
+            Поправочный коэффициент для расчёта поверхности нагрева
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Popravka_Coef_Num_Pipes">
+            <summary>
+            Поправочный коэффициент на число труб
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Popravka_Coef">
+            <summary>
+            Поправочный коэффициент для расчёта коэффициента теплопередачи
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Integral_Black">
+            <summary>
+            Интегральная степень черноты 
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Part_Emittion_1">
+            <summary>
+            Значение доли излучения АЧТ 1 α"г
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Part_Emittion_2">
+            <summary>
+            Значение доли излучения АЧТ 2 α"ст
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_A1">
+            <summary>
+            Эмпирический коэффициент A
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_n1">
+            <summary>
+            Эмпирический коэффициент n
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_m1">
+            <summary>
+            Эмпирический коэффициент m
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_A2">
+            <summary>
+            Эмпирический коэффициент A
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_n2">
+            <summary>
+            Эмпирический коэффициент n
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.Empir_Coef_m2">
+            <summary>
+            Эмпирический коэффициент m
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Capacity_Air">
+            <summary>
+            Теплоемкость воздуха, Дж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Capacity_Air">
+            <summary>
+            Теплоемкость воздуха, Дж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Capacity_Smoke">
+            <summary>
+            Теплоемкость дыма, Дж/(м3*К)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Capacity_Smoke">
+            <summary>
+            Теплоемкость дыма, Дж/(м3*К)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.entalp_Air_Start_Temp">
+            <summary>
+            Энтальпия воздуха при начальной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Entalp_Air_Start_Temp">
+            <summary>
+            Энтальпия воздуха при начальной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.entalp_Air_End_Temp">
+            <summary>
+            Энтальпия воздуха при конечной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Entalp_Air_End_Temp">
+            <summary>
+            Энтальпия воздуха при конечной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.entalp_Smoke_Start_Temp">
+            <summary>
+            Энтальпия дыма при начальной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Entalp_Smoke_Start_Temp">
+            <summary>
+            Энтальпия дыма при начальной температуре, кДж/м3
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.average_Temp_Air">
+            <summary>
+            Средняя температура воздуха, °С
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Average_Temp_Air">
+            <summary>
+            Средняя температура воздуха, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.average_Temp_Smoke">
+            <summary>
+            Средняя температура дыма, °С
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Average_Temp_Smoke">
+            <summary>
+            Средняя температура дыма, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.average_Temp_Wall">
+            <summary>
+            Средняя температура стенки рекуператора, °С
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Average_Temp_Wall">
+            <summary>
+            Средняя температура стенки рекуператора, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.otnosh_Temp">
+            <summary>
+            Отношение Тст/Тв
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Otnosh_Temp">
+            <summary>
+            Отношение Тст/Тв
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.fact_Speed_Air">
+            <summary>
+            Фактическая скорость воздуха, м/с
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Fact_Speed_Air">
+            <summary>
+            Фактическая скорость воздуха, м/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.fact_Speed_Product">
+            <summary>
+            Фактическая скорость продуктов сгорания, м/с
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Fact_Speed_Product">
+            <summary>
+            Фактическая скорость продуктов сгорания, м/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.real_Speed_Air">
+            <summary>
+            Действительная скорость воздуха, м/с
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Real_Speed_Air">
+            <summary>
+            Действительная скорость воздуха, м/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.real_Speed_Product">
+            <summary>
+            Действительная скорость продуктов сгорания, м/с
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Real_Speed_Product">
+            <summary>
+            Действительная скорость продуктов сгорания, м/с
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Air">
+            <summary>
+            Количество тепла, переданного воздуху, кВт
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Air">
+            <summary>
+            Количество тепла, переданного воздуху, кВт
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Input_Product">
+            <summary>
+            Количество тепла,вносимое в теплообменный аппарат продуктами сгорания, кВт
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Input_Product">
+            <summary>
+            Количество тепла,вносимое в теплообменный аппарат продуктами сгорания, кВт
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Output_Product">
+            <summary>
+            Количество тепла,уносимое продуктами сгорания, кВт
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Output_Product">
+            <summary>
+            Количество тепла,уносимое продуктами сгорания, кВт
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.entalp_Product">
+            <summary>
+            Энтальпия продуктов сгорания, кДж/м3
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Entalp_Product">
+            <summary>
+            Энтальпия продуктов сгорания, кДж/м3
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.temp_Product_Output">
+            <summary>
+            Температура продуктов сгорания после рекуператора, °С
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Temp_Product_Output">
+            <summary>
+            Температура продуктов сгорания после рекуператора, °С
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.average_Log_Temp">
+            <summary>
+            Cреднелогарифмическая разность температур
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Average_Log_Temp">
+            <summary>
+            Cреднелогарифмическая разность температур
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Parameter1">
+            <summary>
+            Параметр 1 для поверхности нагрева
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Parameter1">
+            <summary>
+            Параметр 1 для поверхности нагрева
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.heat_Parameter2">
+            <summary>
+            Параметр 2 для поверхности нагрева
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Heat_Parameter2">
+            <summary>
+            Параметр 2 для поверхности нагрева
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.reynolds_Number_1">
+            <summary>
+            Число Рейнольдса 1
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Reynolds_Number_1">
+            <summary>
+            Число Рейнольдса 1
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.popravka_Coef_Heat">
+            <summary>
+            Поправочный коэффициент для теплопередачи
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Popravka_Coef_Heat">
+            <summary>
+            Поправочный коэффициент для теплопередачи
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.popravka_Coef_Heat_Bend">
+            <summary>
+            Поправочный коэффициент для теплопередачи (если изогнута труба)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Popravka_Coef_Heat_Bend">
+            <summary>
+            Поправочный коэффициент для теплопередачи (если изогнута труба)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.sum_Popravka_Coef_1">
+            <summary>
+            Суммарный поправочный коэффициент 1
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Sum_Popravka_Coef_1">
+            <summary>
+            Суммарный поправочный коэффициент 1
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.nusselt_Number_1">
+            <summary>
+            Число Нуссельта 1
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Nusselt_Number_1">
+            <summary>
+            Число Нуссельта 1
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Heat_Convention_Air_Way">
+            <summary>
+            Коэффициент теплоотдачи конвекцией на пути движения воздуха, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Heat_Convention_Air_Way">
+            <summary>
+            Коэффициент теплоотдачи конвекцией на пути движения воздуха, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Heat_Convention_Surface_External">
+            <summary>
+            Коэффициент теплоотдачи конвекцией в пересчете на поверхность наружной трубы, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Heat_Convention_Surface_External">
+            <summary>
+            Коэффициент теплоотдачи конвекцией в пересчете на поверхность наружной трубы, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.reynolds_Number_2">
+            <summary>
+            Число Рейнольдса
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Reynolds_Number_2">
+            <summary>
+            Число Рейнольдса
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.sum_Popravka_Coef_2">
+            <summary>
+            Суммарный поправочный коэффициент 2
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Sum_Popravka_Coef_2">
+            <summary>
+            Суммарный поправочный коэффициент 2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.nusselt_Number_2">
+            <summary>
+            Число Нуссельта 2
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Nusselt_Number_2">
+            <summary>
+            Число Нуссельта 2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Convention_Heat">
+            <summary>
+            Коэффициент конвективной теплоотдачи
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Convention_Heat">
+            <summary>
+            Коэффициент конвективной теплоотдачи
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.eff_Ray_Length">
+            <summary>
+            Эффективная длина луча
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Eff_Ray_Length">
+            <summary>
+            Эффективная длина луча
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Gas_Environment">
+            <summary>
+            Коэффициент для газовой части печной среды kг
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Gas_Environment">
+            <summary>
+            Коэффициент для газовой части печной среды kг
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.binding_Value">
+            <summary>
+            Связующая величина 
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Binding_Value">
+            <summary>
+            Связующая величина 
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.temporary_Value_Ray">
+            <summary>
+            Значение ɛ"г 
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Temporary_Value_Ray">
+            <summary>
+            Значение ɛ"г 
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Ray_Heat">
+            <summary>
+            Коэффициент лучистой теплоотдачи, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Ray_Heat">
+            <summary>
+            Коэффициент лучистой теплоотдачи, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.sum_Coef_Heat_Wall">
+            <summary>
+            Суммарный коэффициент теплоотдачи от пс к стенке, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Sum_Coef_Heat_Wall">
+            <summary>
+            Суммарный коэффициент теплоотдачи от пс к стенке, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Heat">
+            <summary>
+            Коэффициент теплопередачи, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Heat">
+            <summary>
+            Коэффициент теплопередачи, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.coef_Heat_Contamination">
+            <summary>
+            Коэффициент теплопередачи с учетом загрязнения труб, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Coef_Heat_Contamination">
+            <summary>
+            Коэффициент теплопередачи с учетом загрязнения труб, Вт/(м^2*оС)
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.surface_Heat">
+            <summary>
+            Поверхность нагрева
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Surface_Heat">
+            <summary>
+            Поверхность нагрева
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.density_Heat_Flow">
+            <summary>
+            Плотность теплового потока от продуктов сгорания к воздуху, Вт/м2
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Density_Heat_Flow">
+            <summary>
+            Плотность теплового потока от продуктов сгорания к воздуху, Вт/м2
+            </summary>
+        </member>
+        <member name="F:RecuperatorLibrary.MathLib.max_Temp_Wall">
+            <summary>
+            Максимальная температура стенки, °С
+            </summary>
+        </member>
+        <member name="M:RecuperatorLibrary.MathLib.Max_Temp_Wall">
+            <summary>
+            Максимальная температура стенки, °С
+            </summary>
+        </member>
+        <member name="T:RecuperatorLibrary.Models.User">
+            <summary>
+            Пользователь
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.User.Id">
+            <summary>
+            ID пользователя
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.User.Login">
+            <summary>
+            Имя пользователя
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.User.Password">
+            <summary>
+            Пароль пользователя
+            </summary>
+        </member>
+        <member name="T:RecuperatorLibrary.Models.Variant">
+            <summary>
+            Вариант
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.Variant.Id">
+            <summary>
+            Id варианта
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.Variant.Name">
+            <summary>
+            Название варианта
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.Variant.Desc">
+            <summary>
+            Описание варианта
+            </summary>
+        </member>
+        <member name="T:RecuperatorLibrary.Models.VariantUser">
+            <summary>
+            Вариант-пользователь
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Id">
+            <summary>
+            Id Вариант-пользователя
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Temp_Air_Output">
+            <summary>
+            Температура воздуха на выходе из рекуператора, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Temp_Air_Input">
+            <summary>
+            Температура воздуха на входе в рекуператор, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Temp_Product_Input">
+            <summary>
+            Температура продуктов сгорания перед рекуператором, °С
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Consump_Air">
+            <summary>
+            Расход воздуха, м3/с
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Consump_Product">
+            <summary>
+            Расход продуктов сгорания, м3/с
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Percent_CO2">
+            <summary>
+            Количество CO2, %
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Percent_H2O">
+            <summary>
+            Количество H2O, %
+            </summary>
+        </member>
+        <member name="P:RecuperatorLibrary.Models.VariantUser.Radius_Section">
+            <summary>
+            Справочные данные - радиус секции
+            </summary>
+        </member>
+    </members>
+</doc>

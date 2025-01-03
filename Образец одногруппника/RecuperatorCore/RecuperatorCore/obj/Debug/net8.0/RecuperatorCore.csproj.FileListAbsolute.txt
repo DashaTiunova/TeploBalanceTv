@@ -1,0 +1,703 @@
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.Development.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.staticwebassets.runtime.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.exe
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.deps.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.runtimeconfig.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfoInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfo.cs
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.CoreCompileInputs.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.MvcApplicationPartsAssemblyInfo.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cs
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.sourcelink.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.build.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.development.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.RecuperatorCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.build.RecuperatorCore.props
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecuperatorCore.props
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecuperatorCore.props
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\bundle\RecuperatorCore.styles.css
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\projectbundle\RecuperatorCore.bundle.scp.css
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\refint\RecuperatorCore.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.genruntimeconfig.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\ref\RecuperatorCore.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.Development.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.staticwebassets.runtime.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.exe
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.deps.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.runtimeconfig.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.pdb
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfoInputs.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfo.cs
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.CoreCompileInputs.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cs
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.sourcelink.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.build.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.development.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.RecuperatorCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.build.RecuperatorCore.props
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecuperatorCore.props
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecuperatorCore.props
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\bundle\RecuperatorCore.styles.css
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\projectbundle\RecuperatorCore.bundle.scp.css
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\refint\RecuperatorCore.dll
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.pdb
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.genruntimeconfig.cache
+E:\Беспрозванный А.А\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\ref\RecuperatorCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.staticwebassets.runtime.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.exe
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.deps.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.runtimeconfig.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfoInputs.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfo.cs
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.CoreCompileInputs.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cs
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.sourcelink.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.RecuperatorCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.build.RecuperatorCore.props
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecuperatorCore.props
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecuperatorCore.props
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\bundle\RecuperatorCore.styles.css
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\projectbundle\RecuperatorCore.bundle.scp.css
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\refint\RecuperatorCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.genruntimeconfig.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\ref\RecuperatorCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.AssemblyReference.cache
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.pdb
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.xml
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\Recupera.C43C79D3.Up2Date
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.forms.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.io.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.layout.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.sign.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.svg.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.commons.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\QuestPDF.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itextsharp.dll
+C:\Users\ANDREW\Documents\GitHub\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.html2pdf.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.staticwebassets.endpoints.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\AutoMapper.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Humanizer.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.barcodes.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.forms.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.io.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.kernel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.layout.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfa.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfua.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.sign.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.svg.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.commons.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.html2pdf.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itextsharp.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\QuestPDF.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.CodeDom.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Json.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.dll
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.pdb
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.xml
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.AssemblyReference.cache
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.RecuperatorCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\YandexDisk\УЧЕБНАЯ РАБОТА\1маг РПО\ПР 2024\Готово\Беспрозванный Андрей\143901mag_BesprozvannyAndrey\App\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\Recupera.C43C79D3.Up2Date
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\appsettings.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.staticwebassets.runtime.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.exe
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.deps.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.runtimeconfig.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorCore.pdb
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.forms.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.io.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.layout.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.sign.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.svg.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.commons.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\itextsharp.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\QuestPDF.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.pdb
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\bin\Debug\net8.0\RecuperatorLibrary.xml
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.AssemblyReference.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfoInputs.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.AssemblyInfo.cs
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.csproj.CoreCompileInputs.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.RazorAssemblyInfo.cs
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.RecuperatorCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.build.RecuperatorCore.props
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecuperatorCore.props
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecuperatorCore.props
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\bundle\RecuperatorCore.styles.css
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\scopedcss\projectbundle\RecuperatorCore.bundle.scp.css
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\Recupera.C43C79D3.Up2Date
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\refint\RecuperatorCore.dll
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.pdb
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\RecuperatorCore.genruntimeconfig.cache
+C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\obj\Debug\net8.0\ref\RecuperatorCore.dll

@@ -1,0 +1,315 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Расчет петлевого металлического рекуператора</h1>
+        <h2>Расчетные показатели</h2>
+
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Наименование показателя, ед. изм.</th>
+                        <th>Величина</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="fw-bold">Поверхность нагрева, м2</td>
+                        <td>@Math.Round(ViewBag.Surface_Heat, 2)</td>
+                    </tr>
+                    <tr>
+                        <td class="fw-bold">Максимальная температура стенки, °С</td>
+                        <td>@Math.Round(ViewBag.Max_Temp_Wall, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Теплоемкость воздуха, Дж/(м3*К)</td>
+                        <td>@Math.Round(ViewBag.Heat_Capacity_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Теплоемкость дыма, Дж/(м3*К)</td>
+                        <td>@Math.Round(ViewBag.Heat_Capacity_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Энтальпия воздуха при начальной температуре, кДж/м3</td>
+                        <td>@Math.Round(ViewBag.Entalp_Air_Start_Temp, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Энтальпия воздуха при конечной температуре, кДж/м3</td>
+                        <td>@Math.Round(ViewBag.Entalp_Air_End_Temp, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Энтальпия дыма при начальной температуре, кДж/м3</td>
+                        <td>@Math.Round(ViewBag.Entalp_Smoke_Start_Temp, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Средняя температура воздуха, °С</td>
+                        <td>@Math.Round(ViewBag.Average_Temp_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Средняя температура дыма, °С</td>
+                        <td>@Math.Round(ViewBag.Average_Temp_Smoke, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Средняя температура стенки рекуператора, °С</td>
+                        <td>@Math.Round(ViewBag.Average_Temp_Wall, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Отношение Тст/Тв</td>
+                        <td>@Math.Round(ViewBag.Otnosh_Temp, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Фактическая скорость воздуха, м/с</td>
+                        <td>@Math.Round(ViewBag.Fact_Speed_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Фактическая скорость продуктов сгорания, м/с</td>
+                        <td>@Math.Round(ViewBag.Fact_Speed_Product, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Действительная скорость воздуха, м/с</td>
+                        <td>@Math.Round(ViewBag.Real_Speed_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Действительная скорость продуктов сгорания, м/с</td>
+                        <td>@Math.Round(ViewBag.Real_Speed_Product, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Количество тепла, переданного воздуху, кВт</td>
+                        <td>@Math.Round(ViewBag.Heat_Air, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Количество тепла, вносимое в теплообменный аппарат продуктами сгорания, кВт</td>
+                        <td>@Math.Round(ViewBag.Heat_Input_Product, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Количество тепла, уносимое продуктами сгорания, кВт</td>
+                        <td>@Math.Round(ViewBag.Heat_Output_Product, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Энтальпия продуктов сгорания, кДж/м3</td>
+                        <td>@Math.Round(ViewBag.Entalp_Product, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Температура продуктов сгорания после рекуператора, °С</td>
+                        <td>@Math.Round(ViewBag.Temp_Product_Output, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Среднелогарифмическая разность температур</td>
+                        <td>@Math.Round(ViewBag.Average_Log_Temp, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Параметр 1 для поверхности нагрева</td>
+                        <td>@Math.Round(ViewBag.Heat_Parameter1, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Параметр 2 для поверхности нагрева</td>
+                        <td>@Math.Round(ViewBag.Heat_Parameter2, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Число Рейнольдса 1</td>
+                        <td>@Math.Round(ViewBag.Reynolds_Number_1, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Поправочный коэффициент для теплопередачи</td>
+                        <td>@Math.Round(ViewBag.Popravka_Coef_Heat, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Поправочный коэффициент для теплопередачи (если изогнута труба)</td>
+                        <td>@Math.Round(ViewBag.Popravka_Coef_Heat_Bend, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Суммарный поправочный коэффициент 1</td>
+                        <td>@Math.Round(ViewBag.Sum_Popravka_Coef_1, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Число Нуссельта 1</td>
+                        <td>@Math.Round(ViewBag.Nusselt_Number_1, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент теплоотдачи конвекцией на пути движения воздуха, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Coef_Heat_Convention_Air_Way, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент теплоотдачи конвекцией в пересчете на поверхность наружной трубы, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Coef_Heat_Convention_Surface_External, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Число Рейнольдса 2</td>
+                        <td>@Math.Round(ViewBag.Reynolds_Number_2, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Суммарный поправочный коэффициент 2</td>
+                        <td>@Math.Round(ViewBag.Sum_Popravka_Coef_2, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Число Нуссельта 2</td>
+                        <td>@Math.Round(ViewBag.Nusselt_Number_2, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент конвективной теплоотдачи</td>
+                        <td>@Math.Round(ViewBag.Coef_Convention_Heat, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Эффективная длина луча</td>
+                        <td>@Math.Round(ViewBag.Eff_Ray_Length, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент для газовой части печной среды kг</td>
+                        <td>@Math.Round(ViewBag.Coef_Gas_Environment, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Связующая величина</td>
+                        <td>@Math.Round(ViewBag.Binding_Value, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Значение ɛ"г</td>
+                        <td>@Math.Round(ViewBag.Temporary_Value_Ray, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент лучистой теплоотдачи, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Coef_Ray_Heat, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Суммарный коэффициент теплоотдачи от пс к стенке, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Sum_Coef_Heat_Wall, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент теплопередачи, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Coef_Heat, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Коэффициент теплопередачи с учетом загрязнения труб, Вт/(м^2*оС)</td>
+                        <td>@Math.Round(ViewBag.Coef_Heat_Contamination, 2)</td>
+                    </tr>
+                    <tr>
+                        <td>Плотность теплового потока от продуктов сгорания к воздуху, Вт/м2</td>
+                        <td>@Math.Round(ViewBag.Density_Heat_Flow, 2)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <form asp-action="SaveAsPdf" method="post">
+        <input type="hidden" name="Temp_Air_Output" value="@ViewBag.Temp_Air_Output" />
+        <input type="hidden" name="Temp_Air_Input" value="@ViewBag.Temp_Air_Input" />
+        <input type="hidden" name="Temp_Product_Input" value="@ViewBag.Temp_Product_Input" />
+        <input type="hidden" name="Consump_Air" value="@ViewBag.Consump_Air" />
+        <input type="hidden" name="Consump_Product" value="@ViewBag.Consump_Product" />
+        <input type="hidden" name="Percent_CO2" value="@ViewBag.Percent_CO2" />
+        <input type="hidden" name="Percent_H2O" value="@ViewBag.Percent_H2O" />
+        <input type="hidden" name="Radius_Section" value="@ViewBag.Radius_Section" />
+
+        <input type="hidden" name="Surface_Heat" value="@ViewBag.Surface_Heat" />
+        <input type="hidden" name="Max_Temp_Wall" value="@ViewBag.Max_Temp_Wall" />
+        <input type="hidden" name="Heat_Capacity_Air" value="@ViewBag.Heat_Capacity_Air" />
+        <input type="hidden" name="Heat_Capacity_Smoke" value="@ViewBag.Heat_Capacity_Smoke" />
+        <input type="hidden" name="Entalp_Air_Start_Temp" value="@ViewBag.Entalp_Air_Start_Temp" />
+        <input type="hidden" name="Entalp_Air_End_Temp" value="@ViewBag.Entalp_Air_End_Temp" />
+        <input type="hidden" name="Entalp_Smoke_Start_Temp" value="@ViewBag.Entalp_Smoke_Start_Temp" />
+        <input type="hidden" name="Average_Temp_Air" value="@ViewBag.Average_Temp_Air" />
+        <input type="hidden" name="Average_Temp_Smoke" value="@ViewBag.Average_Temp_Smoke" />
+        <input type="hidden" name="Average_Temp_Wall" value="@ViewBag.Average_Temp_Wall" />
+        <input type="hidden" name="Otnosh_Temp" value="@ViewBag.Otnosh_Temp" />
+        <input type="hidden" name="Fact_Speed_Air" value="@ViewBag.Fact_Speed_Air" />
+        <input type="hidden" name="Fact_Speed_Product" value="@ViewBag.Fact_Speed_Product" />
+        <input type="hidden" name="Real_Speed_Air" value="@ViewBag.Real_Speed_Air" />
+        <input type="hidden" name="Real_Speed_Product" value="@ViewBag.Real_Speed_Product" />
+        <input type="hidden" name="Heat_Air" value="@ViewBag.Heat_Air" />
+        <input type="hidden" name="Heat_Input_Product" value="@ViewBag.Heat_Input_Product" />
+        <input type="hidden" name="Heat_Output_Product" value="@ViewBag.Heat_Output_Product" />
+        <input type="hidden" name="Entalp_Product" value="@ViewBag.Entalp_Product" />
+        <input type="hidden" name="Temp_Product_Output" value="@ViewBag.Temp_Product_Output" />
+        <input type="hidden" name="Average_Log_Temp" value="@ViewBag.Average_Log_Temp" />
+        <input type="hidden" name="Heat_Parameter1" value="@ViewBag.Heat_Parameter1" />
+        <input type="hidden" name="Heat_Parameter2" value="@ViewBag.Heat_Parameter2" />
+        <input type="hidden" name="Reynolds_Number_1" value="@ViewBag.Reynolds_Number_1" />
+        <input type="hidden" name="Popravka_Coef_Heat" value="@ViewBag.Popravka_Coef_Heat" />
+        <input type="hidden" name="Popravka_Coef_Heat_Bend" value="@ViewBag.Popravka_Coef_Heat_Bend" />
+        <input type="hidden" name="Sum_Popravka_Coef_1" value="@ViewBag.Sum_Popravka_Coef_1" />
+        <input type="hidden" name="Nusselt_Number_1" value="@ViewBag.Nusselt_Number_1" />
+        <input type="hidden" name="Coef_Heat_Convention_Air_Way" value="@ViewBag.Coef_Heat_Convention_Air_Way" />
+        <input type="hidden" name="Coef_Heat_Convention_Surface_External" value="@ViewBag.Coef_Heat_Convention_Surface_External" />
+        <input type="hidden" name="Reynolds_Number_2" value="@ViewBag.Reynolds_Number_2" />
+        <input type="hidden" name="Sum_Popravka_Coef_2" value="@ViewBag.Sum_Popravka_Coef_2" />
+        <input type="hidden" name="Nusselt_Number_2" value="@ViewBag.Nusselt_Number_2" />
+        <input type="hidden" name="Coef_Convention_Heat" value="@ViewBag.Coef_Convention_Heat" />
+        <input type="hidden" name="Eff_Ray_Length" value="@ViewBag.Eff_Ray_Length" />
+        <input type="hidden" name="Coef_Gas_Environment" value="@ViewBag.Coef_Gas_Environment" />
+        <input type="hidden" name="Binding_Value" value="@ViewBag.Binding_Value" />
+        <input type="hidden" name="Temporary_Value_Ray" value="@ViewBag.Temporary_Value_Ray" />
+        <input type="hidden" name="Coef_Ray_Heat" value="@ViewBag.Coef_Ray_Heat" />
+        <input type="hidden" name="Sum_Coef_Heat_Wall" value="@ViewBag.Sum_Coef_Heat_Wall" />
+        <input type="hidden" name="Coef_Heat" value="@ViewBag.Coef_Heat" />
+        <input type="hidden" name="Coef_Heat_Contamination" value="@ViewBag.Coef_Heat_Contamination" />
+        <input type="hidden" name="Density_Heat_Flow" value="@ViewBag.Density_Heat_Flow" />
+        <button type="submit" class="btn btn-primary">Сохранить в PDF</button>
+    </form>
+    <br />
+    <br />
+          
+    <canvas id="myChart1" style="width: 100%; height: 400px;"></canvas>
+
+    <script src="~/js/Chart.js"></script>
+    <script>
+        var graphDataNames = ['Поверхность нагрева', 'Максимальная температура стенки'];
+        var graphDataSums = @Html.Raw(ViewBag.lists);
+        var ctx = document.getElementById('myChart1').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: graphDataNames,
+                datasets: [{
+                    label: 'Результаты арифметических действий',
+                    lineTension: 0,
+                    data: graphDataSums,
+                    backgroundColor: 'rgba(0, 38, 255, 1)',
+                    borderColor: [
+                        'blue',
+                        'blue'
+                    ],
+                    borderWidth: 1,
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true,
+                            fontColor: 'Black'
+                        },
+                    }],
+                    xAxes: [{
+                        ticks: {
+                            fontColor: 'Black'
+                        },
+                    }]
+                },
+                legend: {
+                    labels: {
+                        fontColor: "Black",
+                        fontSize: 14
+                    }
+                }
+            }
+        });
+    </script>
+
+
+
+    <br />
+    <br />
+
+
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+    <p></p>
+</body>
+</html>

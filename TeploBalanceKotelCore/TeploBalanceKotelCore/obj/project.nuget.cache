@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "kk8Sz+mSqhA=",
+  "dgSpecHash": "DM7E4JJiIr4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
+  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dashulkin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

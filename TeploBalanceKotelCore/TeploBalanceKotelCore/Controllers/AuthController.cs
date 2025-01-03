@@ -33,7 +33,7 @@ namespace TeploBalanceKotelCore.Controllers
 
                 var claimsIdentity = new ClaimsIdentity(claims, "Cookies");
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
-                
+                //реализовать авторизацию
                 return RedirectToAction("DataInputTverd", "Home");
             }
 

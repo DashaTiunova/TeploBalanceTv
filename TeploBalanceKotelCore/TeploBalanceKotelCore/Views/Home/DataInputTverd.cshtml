@@ -1,20 +1,28 @@
-﻿
+﻿@model TeploBalanceKotelCore.Data.VarTverdToplivo
 <!DOCTYPE html>
 <html>
 <head>
-     <meta name="viewport" content="width=device-width, initial-scale=1">
+    @* <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> *@
 </head>
 <body>
-    @model VariantTverdModel
-    <h2>
-        Твердое топливо
-    </h2>
+    
     @using (Html.BeginForm("DataInputTverd", "Home", FormMethod.Post))
     {
-
+        @* <div class="form-group">
+            @Html.LabelFor(model => model.VarTverd_Toplivo_ID, "Выберите вариант исходных данных", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-2">
+                @Html.DropDownList("VarTverd_Toplivo_ID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.VarTverd_Toplivo_ID, "", new { @class = "text-danger" })
+            </div>
+        </div> *@
+        
+        <h2>
+           Твердое топливо
+        </h2>
+        
         <div class="container" >
             
             <h2>Исходные данные</h2>
@@ -71,7 +79,34 @@
                             <td>Содержание водяных паров, рабочая масса, %</td>
                             <td>@Html.TextBox("DataInputTverd.SodWP", (double)(ViewBag.DataInputTverd.SodWP), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
                         </tr>
-                        
+                        @* <tr>
+                            <td>Содержание азота N, рабочая масса, %</td>
+                            <td>@Html.TextBox("DataInputTverd.SodN", (double)(ViewBag.DataInputTverd.SodN), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr> *@
+                        @* <tr>
+                            <td>Содержание CO, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodCO", (double)(ViewBag.DataInput.SodCO), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание CO2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodCO2", (double)(ViewBag.DataInput.SodCO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание N2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodN2", (double)(ViewBag.DataInput.SodN2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание O2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodO2", (double)(ViewBag.DataInput.SodO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2S, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodH2S", (double)(ViewBag.DataInput.SodH2S), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание H2, %</td>
+                            <td>@Html.TextBox("DataInputZhidk.SodH2", (double)(ViewBag.DataInput.SodH2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr> *@
                         <tr>
                             <td>Коэффициент избытка воздуха</td>
                             <td>@Html.TextBox("DataInputTverd.Alpha", (double)(ViewBag.DataInputTverd.Alpha), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
@@ -96,6 +131,13 @@
                             <td>Потери тепла от наружного охлаждения, % </td>
                             <td>@Html.TextBox("DataInputTverd.QCold", (double)(ViewBag.DataInputTverd.QCold), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
                         </tr>
+
+
+
+
+
+
+
                     </tbody>
                 </table>
             </div>
@@ -106,76 +148,7 @@
         <div class="form-group" style="margin-left: auto; margin-top: 20px">
             <button type="submit" name="action" value="toSolver" style="font-size: 16px" class="btn btn-primary">Расчет</button>
         </div>
-    }
-       @*  @if (!string.IsNullOrEmpty(TempData["InvalidOperationMessage"]?.ToString()))
-        {
-            <div class="alert alert-danger" role="alert">
-                @TempData["InvalidOperationMessage"]
-            </div>
-        }
-        @if (!string.IsNullOrEmpty(TempData["Message"]?.ToString()))
-        {
-            <div class="alert alert-success" role="alert">
-                @TempData["Message"]
-            </div>
-        } *@
-        <div class="form-group">
-            <label for="Variant">Вариант</label>
-            <select id="Variant" name="Variant" class="form-control">
-                @foreach (var item in Model.TverdVariants)
-                {
-                    <option value="@item.VarTverd_Toplivo_ID" title="@item.Description">@item.NameVariant_TverdToplivo</option>
-                }
-            </select>
-        </div>
-        <div class="container-sm text-center">
-            <div class="row row-cols-auto">
-                @using (Html.BeginForm("DeleteVariant", "Home", FormMethod.Post))
-                {
-                    <input type="hidden" name="UserId" value="@Model.UserId">
-                    <input type="hidden" id="HiddenVariant1" name="VariantId" value="">
-                    <button type="submit" class="btn btn-primary">Удалить</button>
-                }
-                @using (Html.BeginForm("LoadVariant", "Home", FormMethod.Post))
-                {
-                    <input type="hidden" name="UserId" value="@Model.UserId">
-                    <input type="hidden" id="HiddenVariant2" name="VariantId" value="">
-                    <button type="submit" class="btn btn-primary">Загрузить</button>
-                }
-            </div>
-        </div>
-        @using (Html.BeginForm("SaveVariant", "Home", FormMethod.Post))
-        {
-            <div class="form-group">
-                <input type="hidden" class="form-control" name="UserId" value="@Model.UserId">
-                <input type="hidden" class="form-control" name="TempPitWat" value="@ViewBag.DataInput.TempPitWat">
-                <input type="hidden" class="form-control" name="TempHeatWat" value="@ViewBag.DataInput.TempHeatWat">
-                <input type="hidden" class="form-control" name="Pressure" value="@ViewBag.DataInput.Pressure">
-                <input type="hidden" class="form-control" name="ParVyh" value="@ViewBag.DataInput.ParVyh">
-                <input type="hidden" class="form-control" name="RashWat" value="@ViewBag.DataInput.RashWat">
-                <input type="hidden" class="form-control" name="TempRabT" value="@ViewBag.DataInput.TempRabT">
-                <input type="hidden" class="form-control" name="SodH" value="@ViewBag.DataInput.SodH">
-                <input type="hidden" class="form-control" name="SodC" value="@ViewBag.DataInput.SodC">
-                <input type="hidden" class="form-control" name="SodO" value="@ViewBag.DataInput.SodO">
-                <input type="hidden" class="form-control" name="SodS" value="@ViewBag.DataInput.SodS">
-                <input type="hidden" class="form-control" name="SodWP" value="@ViewBag.DataInput.SodWP">
-                <input type="hidden" class="form-control" name="Alpha" value="@ViewBag.DataInput.Alpha">
-                <input type="hidden" class="form-control" name="TempVozd" value="@ViewBag.DataInput.TempVozd">
-                <input type="hidden" class="form-control" name="TempOut" value="@ViewBag.DataInput.TempOut">
-                <input type="hidden" class="form-control" name="QChem" value="@ViewBag.DataInput.QChem">
-                <input type="hidden" class="form-control" name="QMech" value="@ViewBag.DataInput.QMech">
-                <input type="hidden" class="form-control" name="QCold" value="@ViewBag.DataInput.QCold">
-            
 
-            </div>
-            <div class="form-group">
-                <input type="text" class="form-control" name="NameVariant_TverdToplivo" placeholder="Название" required>
-            </div>
-            <div class="form-group">
-                <input type="text" class="form-control" name="Description" placeholder="Описание" required>
-            </div>
-            <button type="submit" class="btn btn-primary">Сохранить</button>
-        }
     }
 
     @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
