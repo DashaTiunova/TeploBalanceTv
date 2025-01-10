@@ -34,7 +34,7 @@ namespace TeploBalanceKotelCore.Controllers
                 var claimsIdentity = new ClaimsIdentity(claims, "Cookies");
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
                 //реализовать авторизацию
-                return RedirectToAction("DataInputTverd", "Home");
+                return RedirectToAction("Index", "Home");
             }
 
             return View();
@@ -52,7 +52,7 @@ namespace TeploBalanceKotelCore.Controllers
            
                 await HttpContext.SignOutAsync();
                 //реализовать авторизацию
-                return RedirectToAction("DataInputTverd", "Home");
+                return RedirectToAction("Index", "Home");
             }
 
            

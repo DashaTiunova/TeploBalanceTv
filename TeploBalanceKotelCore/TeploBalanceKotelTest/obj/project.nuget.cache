@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ydxRgVlrsM=",
+  "dgSpecHash": "b9LzAcRCW+w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
+  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dashulkin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

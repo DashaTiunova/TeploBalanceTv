@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+UxY5aPv8g=",
+  "dgSpecHash": "b+TLR6oqr8s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorCore\\RecuperatorCore.csproj",
+  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorCore\\RecuperatorCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dashulkin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",

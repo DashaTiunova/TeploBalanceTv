@@ -18,7 +18,7 @@ builder.Services.AddDbContext<DataContext_TverdToplivo>(
     );
 //Сервис авторизации
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-    .AddCookie(options => options.LoginPath = "/Auth/Index");
+    .AddCookie(options => {options.LoginPath = "/Auth/Index"; options.LogoutPath = "/Auth/Logout";});
 builder.Services.AddAuthorization();
 
 // Add services to the container.

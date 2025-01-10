@@ -26,33 +26,7 @@ namespace TeploBalanceKotelCore.Controllers
             return RedirectToAction("DataInputTverd"); ;
         }
 
-        public IActionResult DemoForTverd()
-        {
-            var userIdStr = User.FindFirst("UserId")?.Value;
-            if (userIdStr == null)
-            {
-                // ¬озвращаем ошибку или редирект, если пользователь не найден
-                return Unauthorized();
-            }
-
-            int userId = int.Parse(userIdStr);
-            if (_context.VarTverdToplivos.Any(p => p.OwnerID_User == userId))
-            {
-                return View();
-            }
-            var var_default = new VarTverdToplivo
-                {
-                    NameVariant_TverdToplivo = "Ўаблон",
-                    DateVariant= System.DateTime.Now,
-                    Description="Ёто шаблонный вариант расчета",
-                    OwnerID_User=userId
-
-                };
-                _context.VarTverdToplivos.Add(var_default);
-                _context.SaveChanges();
-            
-            return View();
-        }
+       
         //Input дл€ газа
         public IActionResult DataInput()
         {
@@ -125,15 +99,44 @@ namespace TeploBalanceKotelCore.Controllers
 
             return View();
         }
+       
+
+
 
         //Input дл€ твердого
-        public IActionResult DataInputTverd()
+        public async Task<IActionResult> DataInputTverd(VarTverdToplivo model)
         {
+          
+            
+
+                if (User.Identity.IsAuthenticated)
+                {
+                    var userIdClaim = User.Claims.FirstOrDefault(c => c.Type == "UserId");
+                    if (userIdClaim != null)
+                    {
+                        var userId = int.Parse(userIdClaim.Value); 
+
+                        var varTverd = new VarTverdToplivo
+                        {
+                            OwnerID_User = userId,
+                            DateVariant = DateTime.Now,
+                            NameVariant_TverdToplivo = model.NameVariant_TverdToplivo,
+                            Description = model.Description
+                        };
+
+                        // ƒобавл€ем в контекст
+                        _context.VarTverdToplivos.Add(varTverd);
+                        await _context.SaveChangesAsync();  
+
+                    }
+                }
+
+            
             TverdToplivo _cs = new TverdToplivo();
 
-            #region --- «адать исходные данные дл€ второго найденного варианта
+        #region --- «адать исходные данные дл€ второго найденного варианта
 
-            _cs.TempPitWat = 30d;
+        _cs.TempPitWat = 30d;
             _cs.TempHeatWat = 160d;
             _cs.Pressure = 2d;
             _cs.ParVyh = 2d;
@@ -157,7 +160,7 @@ namespace TeploBalanceKotelCore.Controllers
             ViewBag.DataInputTverd = _cs;
 
             return View();
-        }
+    }
         //Output дл€ газа
         [HttpPost]
         public IActionResult DataInput(DataInputModel DataInput)

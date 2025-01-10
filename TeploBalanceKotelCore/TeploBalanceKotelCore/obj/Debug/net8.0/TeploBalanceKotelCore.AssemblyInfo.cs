@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeploBalanceKotelCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf1c331588c63de0d41e628f1a965d385a6c5d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5521d98408a10f0d5797f55ace404bcaef199aa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeploBalanceKotelCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeploBalanceKotelCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

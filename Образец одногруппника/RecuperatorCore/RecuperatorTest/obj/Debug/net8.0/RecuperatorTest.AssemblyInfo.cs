@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecuperatorTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5521d98408a10f0d5797f55ace404bcaef199aa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecuperatorTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecuperatorTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

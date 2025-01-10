@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj": {}
+    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj": {
+    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj",
         "projectName": "RecuperatorLibrary",
-        "projectPath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj",
+        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj": {
+    "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
+        "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
         "projectName": "RecuperatorTest",
-        "projectPath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
+        "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
         "packagesPath": "C:\\Users\\Dashulkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\obj\\",
+        "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dashulkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,8 +44,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj": {
-                "projectPath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj"
+              "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj": {
+                "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorLibrary\\RecuperatorLibrary.csproj"
               }
             }
           }

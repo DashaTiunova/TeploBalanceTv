@@ -1688,11 +1688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
+      "projectUniqueName": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
       "projectName": "TeploBalanceKotelTest",
-      "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
+      "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\TeploBalanceKotelTest.csproj",
       "packagesPath": "C:\\Users\\Dashulkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\obj\\",
+      "outputPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dashulkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1710,8 +1710,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
-              "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
+            "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj": {
+              "projectPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelMathLib\\TeploBalanceKotelMathLib.csproj"
             }
           }
         }

@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\",
+  "WorkspaceRootPath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\143901mag_tiunovadaria\\143901mag_tiunovadaria\\teplobalancekotelcore\\teplobalancekotelcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\143901mag_tiunovadaria\\143901mag_tiunovadaria\\teplobalancekotelcore\\teplobalancekotelcore\\views\\home\\datainputtverd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\views\\home\\datainputtverd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\views\\home\\datainputtverd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\143901mag_tiunovadaria\\143901mag_tiunovadaria\\teplobalancekotelcore\\teplobalancekotelcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\data\\vartverdtoplivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\data\\vartverdtoplivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|c:\\users\\dashulkin\\source\\repos\\teplobalancetv\\teplobalancekotelcore\\teplobalancekotelcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7065D3AC-C47B-4DCF-AD65-F9AF294D4C41}|TeploBalanceKotelCore\\TeploBalanceKotelCore.csproj|solutionrelative:teplobalancekotelcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Program.cs",
+              "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Program.cs",
+              "RelativeToolTip": "TeploBalanceKotelCore\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:07:02.511Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DataInputTverd.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
               "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
-              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
               "RelativeToolTip": "TeploBalanceKotelCore\\Views\\Home\\DataInputTverd.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T09:25:35.53Z"
+              "WhenOpened": "2025-01-10T05:59:53.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TeploBalanceKotelCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T09:17:10.47Z"
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TeploBalanceKotelCore\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:32:29.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Data\\User.cs",
+              "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Data\\User.cs",
+              "RelativeToolTip": "TeploBalanceKotelCore\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:31:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VarTverdToplivo.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Data\\VarTverdToplivo.cs",
+              "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Data\\VarTverdToplivo.cs",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Data\\VarTverdToplivo.cs",
+              "RelativeToolTip": "TeploBalanceKotelCore\\Data\\VarTverdToplivo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:23:02.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TeploBalanceKotelCore\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\143901mag_TiunovaDaria\\143901mag_TiunovaDaria\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TeploBalanceKotelCore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\TeploBalanceKotelCore\\TeploBalanceKotelCore\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "TeploBalanceKotelCore\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAxwGUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:02:06.339Z",
               "EditorCaption": ""

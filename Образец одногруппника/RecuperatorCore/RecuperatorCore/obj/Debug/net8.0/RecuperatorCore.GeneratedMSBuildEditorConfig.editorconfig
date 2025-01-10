@@ -17,55 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecuperatorCore
 build_property.RootNamespace = RecuperatorCore
-build_property.ProjectDir = C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore\
+build_property.ProjectDir = C:\Users\Dashulkin\source\repos\TeploBalanceTv\Образец одногруппника\RecuperatorCore\RecuperatorCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dashulkin\Downloads\RecuperatorCore\RecuperatorCore
+build_property.MSBuildProjectDirectory = C:\Users\Dashulkin\source\repos\TeploBalanceTv\Образец одногруппника\RecuperatorCore\RecuperatorCore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Auth/Index.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Auth/RegisterUser.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Auth/RegisterUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlclVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Home/DataInput.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Home/DataInput.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Home/Index.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Home/Privacy.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Home/Result.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Home/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Shared/Error.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/_ViewImports.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/_ViewStart.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dashulkin/Downloads/RecuperatorCore/RecuperatorCore/Views/Shared/_Layout.cshtml]
+[C:/Users/Dashulkin/source/repos/TeploBalanceTv/Образец одногруппника/RecuperatorCore/RecuperatorCore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-supeab3aw8

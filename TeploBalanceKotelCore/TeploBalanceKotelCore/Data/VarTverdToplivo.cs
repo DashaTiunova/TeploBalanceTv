@@ -24,7 +24,7 @@ namespace TeploBalanceKotelCore.Data
         /// <summary>
         /// Название варианта расчета 
         /// </summary>
-        [Required(ErrorMessage = "Вы не ввели название варианта расчета")]
+        
         [Display(Name = "Название варианта")]
         public string? NameVariant_TverdToplivo { get; set; }
 

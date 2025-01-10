@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swqU3qSSElY=",
+  "dgSpecHash": "wXzrKhBn1Ro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dashulkin\\Downloads\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
+  "projectFilePath": "C:\\Users\\Dashulkin\\source\\repos\\TeploBalanceTv\\Образец одногруппника\\RecuperatorCore\\RecuperatorTest\\RecuperatorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dashulkin\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Dashulkin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
